@@ -1,0 +1,7 @@
+Text Analytics
+
+Squad
+
+강원대 발표 소개 -> 아이디어
+
+baseline BERT 커널, 논문 분석
